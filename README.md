@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilalturkmen
 - 👀 I’m interested in digital marketing, graphic design and web development
 - 🌱 I’m currently learning javascript, react and next.js
-- 💞️ And i open to collaborate on who are interested in similar issues
+- 💞️ And i'm open to collaborate with who are interested in similar topics.
 - 📫 You can reach me info@bilalturkmen.com
 
 <!---
