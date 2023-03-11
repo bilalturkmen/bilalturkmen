@@ -13,42 +13,42 @@
 <p align="left">
       <a href="#">
         <img
-          src="dev/languages/html.svg"
+          src="dev/html.svg"
           alt="html"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
       <a href="#">
         <img
-          src="dev/languages/css3.svg"
+          src="dev/css3.svg"
           alt="css3"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
       <a href="#">
         <img
-          src="dev/languages/js.svg"
+          src="dev/js.svg"
           alt="js"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
       <a href="#">
         <img
-          src="dev/frameworks/react.svg"
+          src="dev/react.svg"
           alt="react"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
       <a href="#">
         <img
-          src="dev/frameworks/bootstrap.svg"
+          src="dev/bootstrap.svg"
           alt="bootstrap"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
       <a href="#">
         <img
-          src="dev/languages/sass.svg"
+          src="dev/sass.svg"
           alt="sass"
           style="vertical-align: top; margin: 6px 4px"
         />
