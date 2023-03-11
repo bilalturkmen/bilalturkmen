@@ -10,8 +10,7 @@
 
 ### Favorite Tech
 
-<p align="left">
-      
+<p align="left">      
       <a href="#">
         <img
           src="dev/js.svg"
