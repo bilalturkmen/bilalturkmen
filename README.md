@@ -41,9 +41,9 @@
         </td>
         <td align="center" width="96">
           <a href="#bilal-lang">
-            <img src="./dev/nextjs.svg" width="48" height="48" alt="Next JS"
+            <img src="./dev/nextjs.svg" width="48" height="48" alt="Next.js"
           /></a>
-          <br />Next JS
+          <br />Next.js
         </td>
         <td align="center" width="96">
           <a href="#bilal-lang">
