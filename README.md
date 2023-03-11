@@ -10,7 +10,14 @@
 
 ### Favorite Tech
 
-<p align="left">      
+<p align="left">
+<a href="#">
+        <img
+          src="dev/ts.svg"
+          alt="react"
+          style="vertical-align: top; margin: 6px 4px"
+        />
+      </a>
       <a href="#">
         <img
           src="dev/js.svg"
@@ -24,11 +31,11 @@
           alt="react"
           style="vertical-align: top; margin: 6px 4px"
         />
-      </a>
-      <a href="#">
+      </a>      
+       <a href="#">
         <img
-          src="dev/ts.svg"
-          alt="react"
+          src="dev/nextjs.svg"
+          alt="Nextjs"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
@@ -50,20 +57,6 @@
         <img
           src="dev/tailwind.svg"
           alt="tailwind"
-          style="vertical-align: top; margin: 6px 4px"
-        />
-      </a>
-      <a href="#">
-        <img
-          src="dev/bootstrap.svg"
-          alt="bootstrap"
-          style="vertical-align: top; margin: 6px 4px"
-        />
-      </a>
-      <a href="#">
-        <img
-          src="dev/sass.svg"
-          alt="sass"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
