@@ -19,7 +19,6 @@
             height="48"
             alt="TypeScript"
           />
-
           <br />TypeScript
         </td>
         <td align="center" width="96">
