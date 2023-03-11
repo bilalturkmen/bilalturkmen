@@ -1,7 +1,8 @@
-# 👋 Hello, i’m Bilal
+# Hi there 👋
 
 ![github-banner](https://user-images.githubusercontent.com/30315981/224499410-09e0b065-7f78-47ad-b262-274695f7fed0.png)
 
+## About me
 - 👀 I’m interested in digital marketing, graphic design and web development
 - 🌱 I’m currently learning javascript, react and next.js
 - 💞️ And i'm open to collaborate with who are interested in similar topics.
