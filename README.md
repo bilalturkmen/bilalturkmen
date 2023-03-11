@@ -44,20 +44,17 @@
         <td align="center" width="60">
           <a href="#bilal-lang">
             <img src="./dev/html5.svg" width="32" height="32" alt="HTML"
-          /></a>
-       
+          /></a>       
         </td>
         <td align="center" width="60">
           <a href="#bilal-lang">
             <img src="./dev/css3.svg" width="32" height="32" alt="CSS"
-          /></a>
-      
+          /></a>      
         </td>
         <td align="center" width="60">
           <a href="#bilal-lang">
             <img src="./dev/tailwind.svg" width="32" height="32" alt="Tailwind"
-          /></a>
-       
+          /></a>       
         </td>
       </tr>
     </table>
