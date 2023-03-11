@@ -8,46 +8,59 @@
 - 💞️ And i'm open to collaborate with who are interested in similar topics.
 - 📫 You can reach me info@bilalturkmen.com
 
-### Languages
+<h2 align="left" id="bilal-lang"> Languages </h2>
 
-<table>
+ <table>
       <tr>
         <td align="center" width="96">
-          <img
-            src="./dev/typescript.svg"
-            width="48"
-            height="48"
-            alt="TypeScript"
-          />
+          <a href="#bilal-lang">
+            <img
+              src="./dev/typescript.svg"
+              width="48"
+              height="48"
+              alt="TypeScript"
+            />
+          </a>
           <br />TypeScript
         </td>
         <td align="center" width="96">
-          <img
-            src="./dev/javascript.svg"
-            width="48"
-            height="48"
-            alt="JavaScript"
-          />
+          <a href="#bilal-lang">
+            <img
+              src="./dev/javascript.svg"
+              width="48"
+              height="48"
+              alt="JavaScript"
+          /></a>
           <br />JavaScript
         </td>
         <td align="center" width="96">
-          <img src="./dev/react.svg" width="48" height="48" alt="React" />
+          <a href="#bilal-lang">
+            <img src="./dev/react.svg" width="48" height="48" alt="React"
+          /></a>
           <br />React
         </td>
         <td align="center" width="96">
-          <img src="./dev/nextjs.svg" width="48" height="48" alt="Next JS" />
+          <a href="#bilal-lang">
+            <img src="./dev/nextjs.svg" width="48" height="48" alt="Next JS"
+          /></a>
           <br />Next JS
         </td>
         <td align="center" width="96">
-          <img src="./dev/html5.svg" width="48" height="48" alt="HTML" />
+          <a href="#bilal-lang">
+            <img src="./dev/html5.svg" width="48" height="48" alt="HTML"
+          /></a>
           <br />HTML
         </td>
         <td align="center" width="96">
-          <img src="./dev/css3.svg" width="48" height="48" alt="CSS" />
+          <a href="#bilal-lang">
+            <img src="./dev/css3.svg" width="48" height="48" alt="CSS"
+          /></a>
           <br />CSS
         </td>
         <td align="center" width="96">
-          <img src="./dev/tailwind.svg" width="48" height="48" alt="Tailwind" />
+          <a href="#bilal-lang">
+            <img src="./dev/tailwind.svg" width="48" height="48" alt="Tailwind"
+          /></a>
           <br />Tailwind
         </td>
       </tr>
