@@ -8,7 +8,7 @@
 - And i'm open to collaborate with who are interested in similar topics. 💞️ 
 - You can reach me info@bilalturkmen.com 📫 
 
-<h3 align="left" id="bilal-lang"> Languages </h3>
+<h4 align="left" id="bilal-lang"> Languages </h4>
 
  <table>
       <tr>
