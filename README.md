@@ -1,5 +1,5 @@
 # Hi there 👋
-![github-banner](https://user-images.githubusercontent.com/30315981/224499410-09e0b065-7f78-47ad-b262-274695f7fed0.png)
+![github-banner](https://user-images.githubusercontent.com/30315981/224508767-83a5b3a0-0538-417f-93b7-d2f2ddd1d310.png)
 
 ## About me
 
