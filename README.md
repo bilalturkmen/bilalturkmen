@@ -11,20 +11,7 @@
 ### Favorite Tech
 
 <p align="left">
-      <a href="#">
-        <img
-          src="dev/html.svg"
-          alt="html"
-          style="vertical-align: top; margin: 6px 4px"
-        />
-      </a>
-      <a href="#">
-        <img
-          src="dev/css3.svg"
-          alt="css3"
-          style="vertical-align: top; margin: 6px 4px"
-        />
-      </a>
+      
       <a href="#">
         <img
           src="dev/js.svg"
@@ -36,6 +23,20 @@
         <img
           src="dev/react.svg"
           alt="react"
+          style="vertical-align: top; margin: 6px 4px"
+        />
+      </a>
+      <a href="#">
+        <img
+          src="dev/html.svg"
+          alt="html"
+          style="vertical-align: top; margin: 6px 4px"
+        />
+      </a>
+      <a href="#">
+        <img
+          src="dev/css3.svg"
+          alt="css3"
           style="vertical-align: top; margin: 6px 4px"
         />
       </a>
