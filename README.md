@@ -48,6 +48,13 @@
       </a>
       <a href="#">
         <img
+          src="dev/tailwind.svg"
+          alt="tailwind"
+          style="vertical-align: top; margin: 6px 4px"
+        />
+      </a>
+      <a href="#">
+        <img
           src="dev/bootstrap.svg"
           alt="bootstrap"
           style="vertical-align: top; margin: 6px 4px"
