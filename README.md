@@ -1,4 +1,5 @@
-![github-banner](https://user-images.githubusercontent.com/30315981/224540418-18800ce1-94f6-445d-a160-cc25f9d88c44.png)
+
+![github-banner](https://user-images.githubusercontent.com/30315981/224540505-66985712-9d6a-4959-bd52-28df9cdde903.png)
 
 ## About me
 
