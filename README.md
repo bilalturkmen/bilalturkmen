@@ -10,7 +10,7 @@
 
  <table>
       <tr>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img
               src="./dev/typescript.svg"
@@ -20,7 +20,7 @@
             />
           </a>
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img
               src="./dev/javascript.svg"
@@ -29,52 +29,52 @@
               alt="JavaScript"
           /></a>
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/react.svg" width="32" height="32" alt="React"
           /></a>
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/nextjs.svg" width="32" height="32" alt="Next.js"
           /></a>
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/html5.svg" width="32" height="32" alt="HTML"
           /></a>       
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/css3.svg" width="32" height="32" alt="CSS"
           /></a>      
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/tailwind.svg" width="32" height="32" alt="Tailwind"
           /></a>       
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/photoshop.svg" width="32" height="32" alt="Photoshop"
           /></a>       
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/illustrator.svg" width="32" height="32" alt="Illustrator"
           /></a>       
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/figma.svg" width="32" height="32" alt="Figma"
           /></a>       
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/word.svg" width="32" height="32" alt="Word"
           /></a>       
         </td>
-        <td align="center" width="60">
+        <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/excel.svg" width="32" height="32" alt="Excel"
           /></a>       
