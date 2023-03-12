@@ -54,6 +54,13 @@
             <img src="./dev/tailwind.svg" width="32" height="32" alt="Tailwind"
           /></a>       
         </td>
+        </tr>
+        <tr>
+        <td align="center">
+          <a href="#bilal-lang">
+            <img src="./dev/vscode.svg" width="32" height="32" alt="VS Code"
+          /></a>       
+        </td>
         <td align="center">
           <a href="#bilal-lang">
             <img src="./dev/photoshop.svg" width="32" height="32" alt="Photoshop"
