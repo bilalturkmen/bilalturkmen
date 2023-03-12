@@ -86,6 +86,11 @@
             <img src="./dev/excel.svg" width="32" height="32" alt="Excel"
           /></a>       
         </td>
+         <td align="center">
+          <a href="#bilal-lang">
+            <img src="./dev/powerpoint.svg" width="32" height="32" alt="Powerpoint"
+          /></a>       
+        </td>
       </tr>
     </table>
 
