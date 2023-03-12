@@ -1,5 +1,5 @@
 
-<a href="#favori-tech">
+<a href="#banner">
  <img src="https://user-images.githubusercontent.com/30315981/224540505-66985712-9d6a-4959-bd52-28df9cdde903.png" alt="" />
 </a>
 
