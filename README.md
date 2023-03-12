@@ -8,7 +8,7 @@
 - And i'm open to collaborate with who are interested in similar topics. 💞️ 
 - You can reach me info@bilalturkmen.com 📫 
 
- <table id="favori-tech">
+ <table>
       <tr>
         <td align="center">
           <a href="#favori-tech">
