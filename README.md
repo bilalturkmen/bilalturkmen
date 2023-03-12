@@ -54,6 +54,31 @@
             <img src="./dev/tailwind.svg" width="32" height="32" alt="Tailwind"
           /></a>       
         </td>
+        <td align="center" width="60">
+          <a href="#bilal-lang">
+            <img src="./dev/photoshop.svg" width="32" height="32" alt="Photoshop"
+          /></a>       
+        </td>
+        <td align="center" width="60">
+          <a href="#bilal-lang">
+            <img src="./dev/illustrator.svg" width="32" height="32" alt="Illustrator"
+          /></a>       
+        </td>
+        <td align="center" width="60">
+          <a href="#bilal-lang">
+            <img src="./dev/figma.svg" width="32" height="32" alt="Figma"
+          /></a>       
+        </td>
+        <td align="center" width="60">
+          <a href="#bilal-lang">
+            <img src="./dev/word.svg" width="32" height="32" alt="Word"
+          /></a>       
+        </td>
+        <td align="center" width="60">
+          <a href="#bilal-lang">
+            <img src="./dev/excel.svg" width="32" height="32" alt="Excel"
+          /></a>       
+        </td>
       </tr>
     </table>
 
