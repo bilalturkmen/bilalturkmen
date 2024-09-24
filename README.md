@@ -5,8 +5,8 @@
 
 ## About me
 
-- I’m interested in digital marketing, graphic design and web development 👀 
-- I’m currently learning javascript, react and next.js 🌱 
+- I’m interested in graphic design and web development 👀 
+- I’m currently learning javascript, typescript, react and new css technologies 🌱 
 - And i'm open to collaborate with who are interested in similar topics. 💞️ 
 - You can reach me info@bilalturkmen.com 📫 
 
